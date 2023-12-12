@@ -1,0 +1,19 @@
+# ninja log v5
+1	4261	1702008929766317313	/home/danieljung0121/contactgen/pointnet_lib/build/temp.linux-x86_64-cpython-38/src/group_points.o	650e642f21703ccb
+2	4266	1702008929770317370	/home/danieljung0121/contactgen/pointnet_lib/build/temp.linux-x86_64-cpython-38/src/sampling.o	ee50ea28f451848c
+1	4585	1702008930090321996	/home/danieljung0121/contactgen/pointnet_lib/build/temp.linux-x86_64-cpython-38/src/interpolate.o	e8cf0b537d218429
+0	4592	1702008930098322112	/home/danieljung0121/contactgen/pointnet_lib/build/temp.linux-x86_64-cpython-38/src/ball_query.o	5c6b49ecff742936
+0	9777	1702008935278396654	/home/danieljung0121/contactgen/pointnet_lib/build/temp.linux-x86_64-cpython-38/src/ball_query_gpu.o	1d08f2e86d633dd2
+2	9805	1702008935306397055	/home/danieljung0121/contactgen/pointnet_lib/build/temp.linux-x86_64-cpython-38/src/interpolate_gpu.o	d9b804e5304e3464
+1	9811	1702008935314397170	/home/danieljung0121/contactgen/pointnet_lib/build/temp.linux-x86_64-cpython-38/src/group_points_gpu.o	62792e4798265b9c
+1	10307	1702008935806404218	/home/danieljung0121/contactgen/pointnet_lib/build/temp.linux-x86_64-cpython-38/src/sampling_gpu.o	2d42cee3c5198070
+2	14103	1702008939606458476	/home/danieljung0121/contactgen/pointnet_lib/build/temp.linux-x86_64-cpython-38/src/pointnet2_api.o	fb101d8a1cd4ebe7
+4	8403	1702022983499171365	/home/danieljung0121/contactgen/pointnet_lib/build/temp.linux-x86_64-cpython-38/src/interpolate.o	1c2b43ad749a5e8
+4	8627	1702022983727168675	/home/danieljung0121/contactgen/pointnet_lib/build/temp.linux-x86_64-cpython-38/src/group_points.o	31195f67d3079b52
+5	8650	1702022983751168393	/home/danieljung0121/contactgen/pointnet_lib/build/temp.linux-x86_64-cpython-38/src/sampling.o	8fbcfdd8bbf977d5
+3	8931	1702022984027165138	/home/danieljung0121/contactgen/pointnet_lib/build/temp.linux-x86_64-cpython-38/src/ball_query.o	27036e7d05fcb4db
+5	19326	1702022994419043637	/home/danieljung0121/contactgen/pointnet_lib/build/temp.linux-x86_64-cpython-38/src/pointnet2_api.o	56c8f6242ed3a8eb
+3	19571	1702022994675040669	/home/danieljung0121/contactgen/pointnet_lib/build/temp.linux-x86_64-cpython-38/src/ball_query_gpu.o	f1f28f30712af829
+4	19635	1702022994739039926	/home/danieljung0121/contactgen/pointnet_lib/build/temp.linux-x86_64-cpython-38/src/group_points_gpu.o	593192e1608cbe0e
+4	19657	1702022994763039647	/home/danieljung0121/contactgen/pointnet_lib/build/temp.linux-x86_64-cpython-38/src/interpolate_gpu.o	e8c4e810f808702b
+3	20712	1702022995815027461	/home/danieljung0121/contactgen/pointnet_lib/build/temp.linux-x86_64-cpython-38/src/sampling_gpu.o	16917f1c187caa0a
